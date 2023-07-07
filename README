@@ -1,3 +1,10 @@
+Prerequisite:
+
+- Last version of Node.js 
+  Donwload it from: https://nodejs.org/
+
+Execute these commands in order:
+
 npm i expo
 npm i -g eas-cli
 npx expo login
