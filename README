@@ -14,6 +14,8 @@ Now open terminal and execute in order:
 >>> npm i expo
 >>> npm i -g eas-cli
 >>> npx expo login
->>> cd path/where/create/app/
+>>> cd path/where/you/want/to/create/app/
 >>> npx create-expo-app --template blank@48
 >>> npx expo start
+
+Open Expo Go app and try you app!
