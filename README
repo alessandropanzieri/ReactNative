@@ -10,7 +10,7 @@ Prerequisite:
 
 - Install Expo Go Android or ios app and login
 
-Now open terminal and execute in order:
+Open cmd terminal and execute in order:
 >>> npm i expo
 >>> npm i -g eas-cli
 >>> npx expo login
@@ -18,4 +18,4 @@ Now open terminal and execute in order:
 >>> npx create-expo-app --template blank@48
 >>> npx expo start
 
-Open Expo Go app and try you app!
+Now open Expo Go app and try you app in real-time!
