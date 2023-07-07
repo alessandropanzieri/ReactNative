@@ -1,0 +1,5 @@
+npm i expo
+npm i -g eas-cli
+npx expo login
+npx create-expo-app --template blank@48
+npx expo start
