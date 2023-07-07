@@ -1,12 +1,19 @@
+How to use React Native on Windows 11
+
 Prerequisite:
 
-- Last version of Node.js 
+- Install last version of Node.js
   Donwload it from: https://nodejs.org/
 
-Execute these commands in order:
+- Expo Go account
+  Signup on: https://expo.dev/
 
-npm i expo
-npm i -g eas-cli
-npx expo login
-npx create-expo-app --template blank@48
-npx expo start
+- Install Expo Go Android or ios app and login
+
+Now open terminal and execute in order:
+>>> npm i expo
+>>> npm i -g eas-cli
+>>> npx expo login
+>>> cd path/where/create/app/
+>>> npx create-expo-app --template blank@48
+>>> npx expo start
