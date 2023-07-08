@@ -17,5 +17,3 @@ Open cmd terminal and execute in order:
 >>> cd path/where/you/want/to/create/app/
 >>> npx create-expo-app --template blank@48
 >>> npx expo start
-
-Now open Expo Go on mobile and try your app in real-time!
