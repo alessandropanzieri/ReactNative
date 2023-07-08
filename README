@@ -10,7 +10,7 @@ Prerequisites:
 
 - Install Expo Go Android or ios app and login
 
-Open Windows terminal:
+(open Windows terminal)
 
 1. Install the dependencies
 >>> npm i expo
