@@ -12,16 +12,16 @@ Prerequisites:
 
 Terminal commands:
 
-1. Install the dependencies
+1° Install the dependencies
 >>> npm i expo
 >>> npm i -g eas-cli
 
-2. Connect the Expo account
+2° Connect the Expo account
 >>> npx expo login
 
-3. Create a new application
+3° Create a new application
 >>> cd path/where/create/app/
 >>> npx create-expo-app --template blank@48
 
-4. Run and see changes in real-time on Expo Go app
+4° Run and see changes in real-time on Expo Go app
 >>> npx expo start
