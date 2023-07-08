@@ -10,7 +10,7 @@ Prerequisites:
 
 - Install Expo Go Android or ios app and login
 
-Open cmd terminal and execute in order:
+Open Windows terminal and execute:
 >>> npm i expo
 >>> npm i -g eas-cli
 >>> npx expo login
