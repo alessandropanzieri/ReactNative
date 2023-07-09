@@ -1,0 +1,15 @@
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+.DS_Store
+.metro-health-check*
+.vscode
+.expo
+node_modules
+babel.config.js
+package-lock.json
+package.json
