@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.demo.app"
     },
     "web": {
       "favicon": ""
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2758f2c1-6573-4bb5-8142-e5e686067306"
+      }
     }
   }
 }
