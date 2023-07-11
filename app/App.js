@@ -1,18 +1,15 @@
-import React from "react";
 import {View, Text, StyleSheet} from "react-native";
 
-export default class MyButton extends React.Component {
-  textPress = () => {
-    console.log("text pressed");
-  }
+function textPress(event) {
+  console.log(event);
+}
 
-  render() {
-    return (
-      <View style = {styles.view}>
-        <Text onPress = {this.textPress}>PRESS ME</Text>
-      </View>
-    );
-  }
+export default function App() {
+  return (
+    <View style = {styles.view}>
+      <Text onPress = {() => textPress("text pressed")}>PRESS ME</Text>
+    </View>
+  )
 }
 
 const styles = StyleSheet.create({
@@ -21,4 +18,4 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center"
   }
-});
+})
