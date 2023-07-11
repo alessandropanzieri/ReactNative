@@ -11,4 +11,3 @@ npm-debug.*
 .expo
 node_modules
 babel.config.js
-package-lock.json
