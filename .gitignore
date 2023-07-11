@@ -1,3 +1,6 @@
+node_modules/
+.expo/
+dist/
 npm-debug.*
 *.jks
 *.p8
@@ -5,9 +8,6 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+web-build/
 .DS_Store
 .metro-health-check*
-.vscode
-.expo
-node_modules
-babel.config.js
