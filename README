@@ -10,7 +10,7 @@ Prerequisites:
 
 - Install Expo Go Android or ios app and login
 
-Terminal commands
+Terminal commands:
 
 1° Install the dependencies
 >>> npm i expo
