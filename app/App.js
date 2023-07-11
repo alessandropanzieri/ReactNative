@@ -1,3 +1,4 @@
+import {StatusBar} from "expo-status-bar";
 import {View, Text, StyleSheet} from "react-native";
 
 function textPress(event) {
@@ -6,7 +7,8 @@ function textPress(event) {
 
 export default function App() {
   return (
-    <View style = {styles.view}>
+    <View style = { styles.view }>
+      <StatusBar style = "auto"/>
       <Text onPress = {() => textPress("text pressed")}>PRESS ME</Text>
     </View>
   )
