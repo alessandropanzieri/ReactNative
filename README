@@ -26,5 +26,5 @@ Terminal commands
 4° Run and see changes in real-time on Expo Go app
 >>> npx expo start
 
-5° Create an Android and ios production build
+5° Create Android and ios production build
 >>> eas build --platform all
