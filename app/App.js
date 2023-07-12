@@ -1,9 +1,10 @@
-import {StatusBar} from "expo-status-bar";
-import {View, Text, StyleSheet} from "react-native";
+import styles from "./styles/App";
+import StatusBar from "expo-status-bar";
+import {View, Text} from "react-native";
 
 function textPress(event) {
   console.log(event);
-}
+};
 
 export default function App() {
   return (
@@ -11,13 +12,5 @@ export default function App() {
       <StatusBar style = "auto"/>
       <Text onPress = {() => textPress("text pressed")}>PRESS ME</Text>
     </View>
-  )
-}
-
-const styles = StyleSheet.create({
-  view: {
-    flex: 1,
-    alignItems: "center",
-    justifyContent: "center"
-  }
-})
+  );
+};
