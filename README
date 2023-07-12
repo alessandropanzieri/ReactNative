@@ -21,7 +21,7 @@ Terminal commands:
 
 3° Create a new application
 >>> cd path/where/create/app/
->>> npx create-expo-app --template blank@48
+>>> npx create-expo-app@latest -e with-router
 
 4° Run and see changes in real-time on Expo Go app
 >>> npx expo start
