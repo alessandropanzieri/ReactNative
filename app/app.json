@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "app",
-    "slug": "app",
+    "name": "great-chips",
+    "slug": "snack-ef6d222c-55ed-417a-b903-b760c91ed7ac",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -15,23 +15,16 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.demo.app"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "",
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.demo.app"
+      }
     },
     "web": {
-      "favicon": ""
-    },
-    "extra": {
-      "eas": {
-        "projectId": "2758f2c1-6573-4bb5-8142-e5e686067306"
-      }
+      "favicon": "./assets/favicon.png"
     }
   }
 }
