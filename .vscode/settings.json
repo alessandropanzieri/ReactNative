@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    ".gitignore": true,
+    "README.md": true,
+    "app\\app.json": true,
+    "app\\babel.config.js": true,
+    "app\\package.json": true
+  }
+}
