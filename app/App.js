@@ -1,16 +1,16 @@
 import styles from "./styles/App";
 import {StatusBar} from "expo-status-bar";
-import {Text, View} from "react-native";
+import {Button, View} from "react-native";
 
-function textPress(event) {
-  console.log(event);
+function ButtonPress(event) {
+  console.log(event)
 }
 
 export default function App() {
   return (
     <View style = {styles.view}>
       <StatusBar style = "light"/>
-      <Text onPress = {() => textPress("text pressed")}>PRESS ME</Text>
+      <Button onPress = {() => ButtonPress("button pressed")}>PRESS ME</Button>
     </View>
   );
 }
