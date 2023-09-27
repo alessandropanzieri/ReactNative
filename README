@@ -23,8 +23,8 @@ Terminal commands:
 >>> cd path/where/create/app/
 >>> npx create-expo-app@latest
 
-4° Run and see changes in real-time on Expo Go app
+4° Run and see changes in real-time on Expo Go app (connect to the same network)
 >>> npx expo start
 
-5° Create Android and ios production build
->>> eas build --platform all
+5° Link the app to Expo project
+>>> eas init --id <project id provided by Expo>
