@@ -11,8 +11,10 @@ Prerequisites:
 Terminal commands:
 
 1. Install the dependencies
->>> npm i -g expo
->>> npm i -g eas-cli
+```
+npm i -g expo
+npm i -g eas-cli
+```
 
 2. Connect the Expo account
 >>> npx expo login
