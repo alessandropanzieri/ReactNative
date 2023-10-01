@@ -1,12 +1,12 @@
-How to use React Native with Expo
+**How to use React Native with Expo**
 
 Prerequisites:
 
-- Install the last version of Node.js
-  Donwload: https://nodejs.org/
+- Install the *last* version of Node.js
+  Donwload: [node.js](https://nodejs.org/)
 
 - Create an Expo account
-  Signup: https://expo.dev/
+  Signup: [expo](https://expo.dev/)
 
 - Install Expo Go Android or ios app and login
 
