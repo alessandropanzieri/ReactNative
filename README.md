@@ -1,3 +1,5 @@
+ <script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
+
 **How to use React Native with Expo**
 
 Prerequisites:
@@ -6,7 +8,7 @@ Prerequisites:
 
 - Create an [Expo](https://expo.dev/) account
 
-- Install Expo Go [Android](https://play.google.com/store/apps/details?id=host.exp.exponent target="_blank") or [ios](https://apps.apple.com/it/app/expo-go/id982107779 target="_blank") app and login
+- Install Expo Go [Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [ios](https://apps.apple.com/it/app/expo-go/id982107779) app and login
 
 Terminal commands:
 
