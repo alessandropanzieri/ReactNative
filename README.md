@@ -1,6 +1,6 @@
  <script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
 
-**How to use React Native with Expo**
+## **How to use React Native with Expo**
 
 Prerequisites:
 
