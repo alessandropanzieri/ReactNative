@@ -1,4 +1,4 @@
-### **How to use React Native with Expo**
+# **How to use React Native with Expo**
 
 Prerequisites:
 
