@@ -1,6 +1,6 @@
-# **How to use React Native with Expo**
+## **How to use React Native with Expo**
 
-### Prerequisites:
+### Prerequisites
 
 - Install the *last* version of [Node.js](https://nodejs.org/)
 
@@ -10,7 +10,7 @@
 
 ---
 
-### Terminal commands:
+### Terminal commands
 
 1. Install the dependencies
 ```
