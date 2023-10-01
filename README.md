@@ -8,6 +8,8 @@
 
 - Install Expo Go [Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [ios](https://apps.apple.com/it/app/expo-go/id982107779) app and login
 
+---
+
 ### Terminal commands:
 
 1. Install the dependencies
