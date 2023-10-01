@@ -2,11 +2,9 @@
 
 Prerequisites:
 
-- Install the *last* version of Node.js
-  Donwload: [node.js](https://nodejs.org/)
+- Install the *last* version of [Node.js](https://nodejs.org/)
 
-- Create an Expo account
-  Signup: [expo](https://expo.dev/)
+- Create an [Expo](https://expo.dev/)account
 
 - Install Expo Go Android or ios app and login
 
