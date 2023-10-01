@@ -11,23 +11,27 @@
 ### Terminal commands
 
 1. Install the dependencies
+
 ```
 npm i -g expo
 npm i -g eas-cli
 ```
 
 2. Connect the Expo account
+
 ```
 npx expo login
 ```
 
 3. Create a new application
+
 ```
 cd path/where/create/app/
 npx create-expo-app@latest
 ```
 
-4. Run and see changes in real-time on Expo Go app (be careful to connect to the same PC network)
+4. Run and see changes in real-time on Expo Go mobile app (be careful to connect to the same PC network)
+
 ```
 npx expo start
 ```
