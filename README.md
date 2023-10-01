@@ -17,14 +17,22 @@ npm i -g eas-cli
 ```
 
 2. Connect the Expo account
->>> npx expo login
+```
+npx expo login
+```
 
 3. Create a new application
->>> cd path/where/create/app/
->>> npx create-expo-app@latest
+```
+cd path/where/create/app/
+npx create-expo-app@latest
+```
 
 4. Run and see changes in real-time on Expo Go app (connect to the same network)
->>> npx expo start
+```
+npx expo start
+```
 
 5. Link the app to Expo project
->>> eas init --id <project id provided by Expo>
+```
+eas init --id <project id provided by Expo>
+```
