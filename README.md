@@ -27,7 +27,7 @@ cd path/where/create/app/
 npx create-expo-app@latest
 ```
 
-4. Run and see changes in real-time on Expo Go app (be careful to connect to the same network)
+4. Run and see changes in real-time on Expo Go app (be careful to connect to the same PC network)
 ```
 npx expo start
 ```
