@@ -42,3 +42,8 @@ npx expo start
 ```
 eas init --id <project id provided by Expo>
 ```
+
+6. Build app for Android or/and ios
+```
+eas build --platform android/ios/all
+```
