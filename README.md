@@ -30,6 +30,8 @@ cd path/where/create/app/
 npx create-expo-app@latest
 ```
 
+*the following must be run inside app folder*
+
 4. Run and see changes in real-time on Expo Go mobile app (be careful to connect to the same PC network)
 
 ```
