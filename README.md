@@ -1,6 +1,6 @@
-## ⚛️How to use React Native with Expo
+# ⚛️How to use React Native with Expo
 
-### Prerequisites
+## Prerequisites
 
 - Install the *last* version of [Node.js](https://nodejs.org/)
 
@@ -8,42 +8,44 @@
 
 - Install Expo Go [Android](https://play.google.com/store/apps/details?id=host.exp.exponent) or [ios](https://apps.apple.com/it/app/expo-go/id982107779) app and login
 
-### Terminal commands
+## Terminal commands
 
 1. Install the dependencies
 
-```
-npm i -g expo
-npm i -g eas-cli
-```
+    ```shell
+    npm i -g expo
+    npm i -g eas-cli
+    ```
 
 2. Connect the Expo account
 
-```
-npx expo login
-```
+    ```shell
+    npx expo login
+    ```
 
 3. Create a new application
 
-```
-cd path/where/create/app/
-npx create-expo-app@latest
-```
+    ```shell
+    cd path/where/create/app/
+    npx create-expo-app@latest
+    ```
 
-*the following commands must be run inside app folder*
+    *the following commands must be run inside app folder*
 
 4. Run and see changes in real-time on Expo Go mobile app (be careful to connect to the same PC network)
 
-```
-npx expo start
-```
+    ```shell
+    npx expo start
+    ```
 
 5. Link the app to Expo project
-```
-eas init --id <project id provided by Expo>
-```
+
+    ```shell
+    eas init --id <project id provided by Expo>
+    ```
 
 6. Build app for Android or/and ios
-```
-eas build --platform android/ios/all
-```
+
+    ```shell
+    eas build --platform android/ios/all
+    ```
